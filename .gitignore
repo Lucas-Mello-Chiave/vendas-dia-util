@@ -1,0 +1,34 @@
+# Arquivos e pastas de dados
+data/raw/
+data/processed/
+
+# Saídas geradas automaticamente
+outputs/
+*.png
+
+# Logo opcional (se mantida localmente)
+assets/logo.png
+
+# Arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Ambientes virtuais
+venv/
+.env/
+.venv/
+
+# Arquivos Python cache
+__pycache__/
+*.py[cod]
+
+# Arquivos Jupyter (se usados em algum momento)
+.ipynb_checkpoints/
+
+# Sistema operacional
+.idea/
+.vscode/
